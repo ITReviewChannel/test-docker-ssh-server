@@ -18,4 +18,5 @@ ssh itreviewer@127.0.0.1
 ---
 
 [Генерация SSH ключей для Windows 10 (itreviewchannel.ru/generacziya-ssh-klyuchej-dlya-windows-10)](https://itreviewchannel.ru/generacziya-ssh-klyuchej-dlya-windows-10/)
+
 [Работа с SSH в Windows 10 и Linux. Генерация ключей - YouTube](https://www.youtube.com/watch?v=H89XkCMJ7_k)
